@@ -1077,8 +1077,8 @@
     "name": "For Honor",
     "logo": "",
     "native": false,
-    "status": "Supported",
-    "reference": "https://www.protondb.com/app/304390",
+    "status": "Denied",
+    "reference": "https://www.ubisoft.com/en-us/game/for-honor/news-updates/4WKJhG6v6C9sbCOZkFZ6wG/ranked-faq",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -1089,6 +1089,11 @@
       ]
     ],
     "updates": [
+		{
+			"name": "Support Denied with ranked update untill further notice.",
+			"date": "Sep 10, 2026, 0:00 AM",
+			"reference": "https://www.ubisoft.com/en-us/game/for-honor/news-updates/4WKJhG6v6C9sbCOZkFZ6wG/ranked-faq"
+		},
       {
         "name": "EasyAntiCheat.so added!",
         "date": "Jul 28, 2022, 0:00 AM",
@@ -1113,7 +1118,7 @@
       }
     },
     "slug": "for-honor",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2026-09-10T15:31:56.000Z"
   },
   {
     "url": "https://www.narakathegame.com/",
