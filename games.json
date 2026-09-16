@@ -14195,29 +14195,6 @@
   },
   {
     "url": "",
-    "slug": "midnight-guns",
-    "name": "Midnight Guns",
-    "logo": "",
-    "native": false,
-    "status": "Broken",
-    "reference": "",
-    "anticheats": [
-      "Easy Anti-Cheat"
-    ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
-    ],
-    "storeIds": {
-      "steam": "1877600"
-    },
-    "dateChanged": "2024-10-22T16:28:22.252564-05:00"
-  },
-  {
-    "url": "",
     "slug": "gemini-binary-conflict",
     "name": "Gemini: Binary Conflict",
     "logo": "",
