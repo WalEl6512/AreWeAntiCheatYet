@@ -8282,18 +8282,24 @@
     "name": "s&box",
     "logo": "",
     "native": true,
-    "status": "Supported",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "VAC"
     ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
+    "updates": [
+      {
+        "name": "Released as Unsupported",
+        "date": "Apr. 28, 2026, 0:00UTC",
+        "reference": "https://store.steampowered.com/app/590830/sbox/"
+      },
+      {
+        "name": "Downranked to running, as Steamdeck and steamOS is unsupported offically.",
+        "date": "Sep. 16, 2026, 22:00UTC",
+        "reference": "https://www.protondb.com/app/590830"
+      }
     ],
+    "notes": [],
     "storeIds": {},
     "dateChanged": "2024-06-30T19:35:24.182Z"
   },
