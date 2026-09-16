@@ -13506,16 +13506,27 @@
     "name": "EA SPORTS FC™ 26",
     "logo": "",
     "native": false,
-    "status": "Denied",
-    "reference": "",
+    "status": "Broken",
+    "reference": "https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/",
     "anticheats": [
       "EA anticheat"
     ],
-    "updates": [],
+    "updates": [
+      {
+        "name": "Released as Unsupported",
+        "date": "Sep. 26, 2025, 0:00 UTC",
+        "reference": "https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/"
+      },
+      {
+        "name": "Changed to Broken; Some players are apparently able to run it since about 2 months.",
+        "date": "Jul. 01, 2026, 0:00UTC",
+        "reference": "https://www.protondb.com/app/3405690#83wJkQuWS3"
+      }
+    ],
     "notes": [
       [
-        "Unreleased, Speculative",
-        null
+        "Check protondb.com; some player are apparently able to run it."
+        "https://www.protondb.com/app/3405690#83wJkQuWS3"
       ]
     ],
     "storeIds": {},
