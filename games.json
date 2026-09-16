@@ -10356,11 +10356,17 @@
     "anticheats": [
       "Easy Anti-Cheat"
     ],
-    "updates": [],
+    "updates": [
+      {
+        "name": "Released as Unsupported",
+        "date": "Sep. 25, 2024 0:00UTC",
+        "reference": "https://store.steampowered.com/app/2682580/DUCKSIDE/"
+      }
+    ],
     "notes": [
       [
-        "Unreleased, Speculative",
-        ""
+        "Issues seem to be related to choppy programing, rather than the anticheat itself.",
+        "https://www.protondb.com/app/2682580"
       ]
     ],
     "storeIds": {
