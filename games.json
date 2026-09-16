@@ -1089,11 +1089,11 @@
       ]
     ],
     "updates": [
-		{
-			"name": "Support Denied with ranked update untill further notice.",
-			"date": "Sep 10, 2026, 0:00 AM",
-			"reference": "https://www.ubisoft.com/en-us/game/for-honor/news-updates/4WKJhG6v6C9sbCOZkFZ6wG/ranked-faq"
-		},
+      {
+        "name": "Support Denied with ranked update untill further notice.",
+        "date": "Sep 10, 2026, 0:00 AM",
+        "reference": "https://www.ubisoft.com/en-us/game/for-honor/news-updates/4WKJhG6v6C9sbCOZkFZ6wG/ranked-faq"
+      },
       {
         "name": "EasyAntiCheat.so added!",
         "date": "Jul 28, 2022, 0:00 AM",
