@@ -19730,29 +19730,6 @@
   },
   {
     "url": "",
-    "slug": "velev",
-    "name": "Velev",
-    "logo": "",
-    "native": false,
-    "status": "Broken",
-    "reference": "",
-    "anticheats": [
-      "Easy Anti-Cheat"
-    ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
-    ],
-    "storeIds": {
-      "steam": "2790930"
-    },
-    "dateChanged": "2024-11-18T16:33:32.398149-06:00"
-  },
-  {
-    "url": "",
     "slug": "divine-knockout",
     "name": "Divine Knockout (DKO)",
     "logo": "",
@@ -20989,7 +20966,7 @@
 			{
 				"name": "Released as Deck Verified",
 				"date": "Nov. 05, 2025, 0:00 UTC",
-				"reference": "https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/" 
+				"reference": "https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/"
 			}
 		],
     "storeIds": {
