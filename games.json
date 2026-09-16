@@ -7967,11 +7967,17 @@
     "anticheats": [
       "NEAC Protect"
     ],
-    "updates": [],
+    "updates": [
+      {
+        "name": "Released as Unsupported",
+        "date": "Mar. 07, 2026, 0:00UTC",
+        "reference": "https://store.steampowered.com/app/2943650/FragPunk/"
+      }
+    ],
     "notes": [
       [
-        "Unreleased, Working in Closed Beta Test",
-        null
+        "Works but performance is inconsistent. Check protonDB for more information.",
+        "https://www.protondb.com/app/2943650"
       ]
     ],
     "storeIds": {
