@@ -12099,11 +12099,17 @@
       "Crackproof",
       "KSophon"
     ],
-    "updates": [],
+    "updates": [
+      {
+        "name": "Released as Unsupported",
+        "date": "Jul. 08, 2026, 0:00 UTC",
+        "reference": "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/"
+      }
+    ],
     "notes": [
       [
-        "Unreleased, Speculative",
-        null
+        "Runs very inconsistently. Refer to ProtonDB for more information.",
+        "https://www.protondb.com/app/4508340"
       ]
     ],
     "storeIds": {},
