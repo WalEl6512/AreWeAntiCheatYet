@@ -18139,17 +18139,18 @@
     "logo": "",
     "native": false,
     "status": "Denied",
-    "reference": "",
+    "reference": "https://www.protondb.com/app/3065800",
     "anticheats": [
       "BattlEye"
     ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
+    "updates": [
+      {
+        "name": "Released as Unsupported",
+        "date": "Mar. 05, 2026, 18:00 UTC",
+        "reference": "https://store.steampowered.com/app/3065800/Marathon/?curator_clanid=4777282"
+      }
     ],
+    "notes": [],
     "storeIds": {
       "steam": "3065800"
     },
