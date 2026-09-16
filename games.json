@@ -15493,13 +15493,14 @@
     "anticheats": [
       "Easy Anti-Cheat"
     ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Working in Steam Next Fest Playtest",
-        null
-      ]
+    "updates": [
+      {
+        "name": "Released. Works perfectly fine according to ProtonDB",
+        "date": "May 28, 2026, 0:00 UTC",
+        "reference": "https://www.protondb.com/app/2827230"
+      }
     ],
+    "notes": [],
     "storeIds": {
       "steam": "2827230"
     },
@@ -15851,18 +15852,19 @@
     "name": "MotoGP™25",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
+    "updates": [
+      {
+        "name": "Released as Deck Playable",
+        "date": "Apr. 30, 2025, 0:00UTC",
+        "reference": "https://store.steampowered.com/app/3077390/MotoGP25/?curator_clanid=4777282"
+      }
     ],
+    "notes": [],
     "storeIds": {
       "steam": "3077390"
     },
@@ -17736,29 +17738,6 @@
   },
   {
     "url": "",
-    "slug": "shaiya",
-    "name": "shaiya",
-    "logo": "",
-    "native": false,
-    "status": "Broken",
-    "reference": "",
-    "anticheats": [
-      "VAC"
-    ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
-    ],
-    "storeIds": {
-      "steam": "2690190"
-    },
-    "dateChanged": "2024-10-31T15:26:18.105628-05:00"
-  },
-  {
-    "url": "",
     "slug": "maplestory-worlds",
     "name": "MapleStory Worlds",
     "logo": "",
@@ -18139,7 +18118,7 @@
     "logo": "",
     "native": false,
     "status": "Denied",
-    "reference": "https://www.protondb.com/app/3065800",
+    "reference": "",
     "anticheats": [
       "BattlEye"
     ],
@@ -20958,7 +20937,7 @@
     "logo": "",
     "native": false,
     "status": "Supported",
-    "reference": "https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/",
+    "reference": "",
     "anticheats": [
       "Uncheater"
     ],
@@ -21511,7 +21490,7 @@
     "logo": "",
     "native": false,
     "status": "Running",
-    "reference": "https://www.protondb.com/app/2721340",
+    "reference": "",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
@@ -21694,7 +21673,6 @@
 			}
 		],
     "notes":[],
-    ],
     "storeIds": {},
     "dateChanged": "2025-12-15T11:14:48.882623-05:00"
   },
