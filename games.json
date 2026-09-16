@@ -14760,13 +14760,14 @@
     "anticheats": [
       "EA anticheat"
     ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
+    "updates": [
+      {
+        "name": "Released, Denied.",
+        "date": "Aug. 14, 2025, 0:00 UTC",
+        "reference": "https://www.protondb.com/app/3230400"
+      }
     ],
+    "notes": [],
     "storeIds": {
       "steam": "3230400"
     },
