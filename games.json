@@ -20933,27 +20933,6 @@
   },
   {
     "url": "",
-    "slug": "warcos2",
-    "name": "Warcos 2",
-    "logo": "",
-    "native": false,
-    "status": "Broken",
-    "reference": "",
-    "anticheats": [
-      "Easy Anti-Cheat"
-    ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
-    ],
-    "storeIds": {},
-    "dateChanged": "2025-07-05T22:26:53.452Z"
-  },
-  {
-    "url": "",
     "name": "Karos Classic",
     "logo": "",
     "native": false,
