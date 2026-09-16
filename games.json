@@ -21020,25 +21020,26 @@
   },
   {
     "url": "",
-    "name": "Sonic Rumble",
+    "name": "Sonic Rumble Party",
     "logo": "",
     "native": false,
-    "status": "Broken",
-    "reference": "",
+    "status": "Supported",
+    "reference": "https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/",
     "anticheats": [
       "Uncheater"
     ],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
-    ],
-    "updates": [],
+    "notes": [],
+    "updates": [
+			{
+				"name": "Released as Deck Verified",
+				"date": "Nov. 05, 2025, 0:00 UTC",
+				"reference": "https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/" 
+			}
+		],
     "storeIds": {
       "steam": "2951690"
     },
-    "slug": "sonic-rumble",
+    "slug": "sonic-rumble-party",
     "dateChanged": "2025-07-10T23:58:07.0000000-04:00"
   },
   {
@@ -21053,7 +21054,7 @@
     ],
     "notes": [
       [
-        "Unreleased, Speculative",
+        "Released, but not enough references to determine a status.",
         null
       ]
     ],
@@ -21582,8 +21583,8 @@
     ],
     "updates": [
 	{
-		"name" : "Game released and runs perfectly fine."
-		"date" : "Apr. 14, 2026, 0:00 UTC"
+		"name" : "Game released and runs perfectly fine.",
+		"date" : "Apr. 14, 2026, 0:00 UTC",
 		"reference" : "https://www.protondb.com/app/2721340"
 	}
 	],
@@ -21751,12 +21752,14 @@
     "anticheats": [
       "Anti-Cheat Expert"
     ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
+    "updates": [
+			{
+				"name" : "Game release",
+				"date" : "Jan. 29, 2026, 0:00 UTC",
+				"reference" : "https://www.protondb.com/app/2795540"
+			}
+		],
+    "notes":[],
     ],
     "storeIds": {},
     "dateChanged": "2025-12-15T11:14:48.882623-05:00"
