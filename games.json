@@ -12425,16 +12425,22 @@
     "name": "King Arthur: Legends Rise",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "XIGNCODE3"
     ],
-    "updates": [],
+    "updates": [
+      {
+        "name": "Released as Deck Playable",
+        "date": "Jan. 22, 2025, 0:00UTC",
+        "reference": "https://store.steampowered.com/app/2279730/King_Arthur_Legends_Rise/"
+      }
+    ],
     "notes": [
       [
-        "Unreleased, Speculative",
-        null
+        "Game is no longer available on Steam, however still remains playable apparently?",
+        "https://steamdb.info/changelist/34386434/"
       ]
     ],
     "storeIds": {
