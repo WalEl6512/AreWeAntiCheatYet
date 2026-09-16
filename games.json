@@ -13212,29 +13212,6 @@
   },
   {
     "url": "",
-    "slug": "anarchy-legends-online",
-    "name": "Anarchy Legends Online",
-    "logo": "",
-    "native": false,
-    "status": "Broken",
-    "reference": "",
-    "anticheats": [
-      "Easy Anti-Cheat"
-    ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
-    ],
-    "storeIds": {
-      "steam": "1587100"
-    },
-    "dateChanged": "2024-10-18T17:04:48.773188-05:00"
-  },
-  {
-    "url": "",
     "slug": "the-crew-motorfest",
     "name": "The Crew™ Motorfest",
     "logo": "",
