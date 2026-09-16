@@ -10661,29 +10661,6 @@
     "dateChanged": "2024-09-25T21:16:49.655Z"
   },
   {
-    "url": "",
-    "slug": "tarisland",
-    "name": "Tarisland",
-    "logo": "",
-    "native": false,
-    "status": "Broken",
-    "reference": "",
-    "anticheats": [
-      "Anti-Cheat Expert"
-    ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Speculative",
-        null
-      ]
-    ],
-    "storeIds": {
-      "steam": "3126180"
-    },
-    "dateChanged": "2024-09-25T21:16:49.656Z"
-  },
-  {
     "url": "https://www.breachersvr.com/",
     "slug": "breachers-vr",
     "name": "Breachers",
