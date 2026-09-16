@@ -11018,18 +11018,19 @@
     "name": "NAKWON: LAST PARADISE",
     "logo": "",
     "native": false,
-    "status": "Running",
+    "status": "Broken",
     "reference": "",
     "anticheats": [
       "Nexon Game Security"
     ],
-    "updates": [],
-    "notes": [
-      [
-        "Unreleased, Working in the Closed Beta",
-        null
-      ]
+    "updates": [
+      {
+        "name": "Recent playtest seems to have broken support.",
+        "date": "Mar. 01, 2026 0:00UTC",
+        "reference": "https://www.protondb.com/app/2582960"
+      }
     ],
+    "notes": [],
     "storeIds": {
       "steam": "2582960"
     },
