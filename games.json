@@ -6124,8 +6124,10 @@
       }
     ],
     "notes": [
-      "Just like the Finals, support break sometimes. Report this, they usually work on it quickly."
-      null
+      [
+        "Just like the Finals, support breaks sometimes. Report this, they usually work on it quickly.",
+        null
+      ]
     ],
     "storeIds": {
       "steam": "1808500",
