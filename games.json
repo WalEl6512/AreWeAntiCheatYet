@@ -12061,7 +12061,7 @@
     "dateChanged": "2024-10-05T16:27:40.512Z"
   },
   {
-    "url": "",
+    "url": "https://nte.perfectworld.com/en/",
     "slug": "neverness-to-everness",
     "name": "Neverness to Everness",
     "logo": "",
@@ -12069,8 +12069,7 @@
     "status": "Running",
     "reference": "https://www.protondb.com/app/4508340",
     "anticheats": [
-      "Crackproof",
-      "KSophon"
+      "AntiCheatExpert"
     ],
     "updates": [
       {
@@ -12081,7 +12080,7 @@
     ],
     "notes": [
       [
-        "Runs very inconsistently. Refer to ProtonDB for more information.",
+        "Runs inconsistently. Refer to ProtonDB for more information.",
         "https://www.protondb.com/app/4508340"
       ]
     ],
@@ -21854,19 +21853,27 @@
     "name": "Forefront",
     "logo": "",
     "native": false,
-    "status": "Denied",
-    "reference": "",
+    "status": "Running",
+    "reference": "https://www.protondb.com/app/2981220",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
-    "updates": [],
-    "notes": [
-      [
-        "Same developers of Breachers, they do not believe enabling support would give the same security as Windows",
-        null
-      ]
+    "updates": [
+      {
+        "name": "Released as Unsupported",
+        "date": "Apr. 23, 2026, 0:00UTC",
+        "reference": "https://store.steampowered.com/app/2981220/Forefront/"
+      },
+      {
+        "name": "EAC enabled for Linux. Now running. No offical support.",
+        "date": "Apr. 26, 2026, 21:00UTC",
+        "reference": "https://private-user-images.githubusercontent.com/13170204/597763791-871ee953-f4ad-4d81-87f7-c80455ce52e7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk2NzQxMDcsIm5iZiI6MTc4OTY3MzgwNywicGF0aCI6Ii8xMzE3MDIwNC81OTc3NjM3OTEtODcxZWU5NTMtZjRhZC00ZDgxLTg3ZjctYzgwNDU1Y2U1MmU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE3VDE5MzY0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwNmU4NjkyODljYmQ2ZTNmZmU2NjQxNjcyZjg1ZjE4MjZlNTFkZjFkY2Q0ZWM3ZTg2MjNhMDcwMzMwYTYzZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.LsALoNF8srUcnNgqKO5cMMUPIVbg4gybrkQdlyqVULM"
+      }
     ],
-    "storeIds": {},
+    "notes": [],
+    "storeIds": {
+      "steam": "2981220"
+    },
     "dateChanged": "2025-12-17T12:21:49.197311-05:00"
   }
 ]
