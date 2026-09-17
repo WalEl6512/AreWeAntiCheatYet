@@ -7150,18 +7150,15 @@
     "logo": "",
     "native": false,
     "status": "Running",
-    "reference": "",
+    "reference": "https://www.protondb.com/app/4162040",
     "anticheats": [
       "miHoYo Protect"
     ],
     "updates": [],
-    "notes": [
-      [
-        "",
-        null
-      ]
-    ],
-    "storeIds": {},
+    "notes": [],
+    "storeIds": {
+      "steam": "4162040"
+    },
     "dateChanged": "2024-07-31T00:01:49.730Z"
   },
   {
