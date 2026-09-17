@@ -6111,13 +6111,22 @@
     "name": "ARC Raiders",
     "logo": "",
     "native": false,
-    "status": "Running",
+    "status": "Supported",
     "reference": "",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
-    "updates": [],
-    "notes": [],
+    "updates": [
+      {
+        "name": "Steam Deck verified",
+        "date": "Jul. 10, 2026, 02:44UTC",
+        "reference": "https://steamdb.info/changelist/37155792/"
+      }
+    ],
+    "notes": [
+      "Just like the Finals, support break sometimes. Report this, they usually work on it quickly."
+      null
+    ],
     "storeIds": {
       "steam": "1808500",
       "epic": {
