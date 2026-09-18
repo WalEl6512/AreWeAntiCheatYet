@@ -20653,7 +20653,7 @@
     "name": "Infinity Nikki",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "Anti-Cheat Expert"
@@ -20661,15 +20661,18 @@
     "notes": [
       [
         "Odd behaviour where the game may or may not start, but only on Steam Deck.",
-        ""
-      ],
-      [
-        "As of launch, Infinity Nikki does not run on Desktop Linux.",
         null
       ]
-    ],
-    "updates": [],
+		],
+    "updates": [
+			{
+				"name": "Storepage set as Supported on steamOS",
+				"date": "Jul. 23, 2026, 7:50UTC",
+				"reference": "https://steamdb.info/app/3164330/history/?changeid=37467610"
+			}
+		],
     "storeIds": {
+			"steam": "3164330",
       "epic": {
         "namespace": "b6ab3ae326064cd0884d7df16f69b9cb",
         "slug": "infinity-nikki-71fc64"
