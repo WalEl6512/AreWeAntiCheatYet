@@ -336,8 +336,8 @@
       "BattlEye"
     ],
     "notes": [
-			[
-				"Show your support!",
+      [
+        "Show your support!",
         "https://r6fix.ubi.com/projects/RAINBOW6-SIEGE-LIVE/issues/LIVE-57005"
       ]
     ],
@@ -21473,12 +21473,12 @@
       "Easy Anti-Cheat"
     ],
     "updates": [
-	{
-		"name" : "Game released and runs perfectly fine.",
-		"date" : "Apr. 14, 2026, 0:00 UTC",
-		"reference" : "https://www.protondb.com/app/2721340"
-	}
-	],
+      {
+        "name": "Game release, runs fine according to players.",
+        "date": "Apr. 14, 2026, 0:00 UTC",
+        "reference": "https://www.protondb.com/app/2721340"
+      }
+    ],
     "notes": [],
     "storeIds": {},
     "dateChanged": "2025-12-11T13:51:13.862133-05:00"
