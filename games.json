@@ -1343,13 +1343,19 @@
     "name": "SCUM",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Supported",
     "reference": "https://www.protondb.com/app/513710#kCSHW9b0R9",
     "anticheats": [
       "Easy Anti-Cheat"
     ],
     "notes": [],
-    "updates": [],
+    "updates": [
+			{
+				"name": "Now Supported",
+				"date": "Nov 11, 2026, 5:02 PM CET",
+				"reference": "https://store.steampowered.com/news/app/513710/view/694277269707817995"
+			}
+		],
     "storeIds": {
       "steam": "513710"
     },
